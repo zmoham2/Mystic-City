@@ -1,0 +1,17 @@
+//C/W we still need to have a check of the player health done with each move
+//C/W use that check to decrement the player health if they are poisoned
+//C/W implement a check that if the health reaches zero that player dies
+
+// UI Complete 
+// Artifact Complete 
+
+// Decide on Character or Place expansion
+// If Place:
+	// Place should have properties unique to the room
+	// Should affect behavior or health of a character
+	// High risk, high reward? 
+    // Have some rooms lit? Implement torch for a dark room
+	// Flag inside place class to make certain rooms dark
+	// Use torch to flip the flag and describe the room
+
+// implement XYYZ easter egg
